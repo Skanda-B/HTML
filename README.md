@@ -1,2 +1,2 @@
 # HTML
-html codes by skanda bharadwaj
+HTML & HTML-5 codes by Skanda Bharadwaj
